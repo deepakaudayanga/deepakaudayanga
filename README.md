@@ -1,4 +1,4 @@
-# Hello World!, I'm Udayanga, a Sri Lanka frontend Developer 👋🏼:
+# Hello World!, I'm Udayanga, a Sri Lankan frontend Developer 👋🏼:
 🌱 I’m currently learning React<br><br>- 💬 Ask me about React<br><br>- 📫 How to reach me udayangadeepaka@gmail.com<br><br>- ⚡ Fun fact My favorite debugging strategy involves a cup of coffee and talking to my rubber duck! 🦆☕
 
 
