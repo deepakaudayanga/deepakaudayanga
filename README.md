@@ -11,7 +11,9 @@
 
 [![Azure Cosmos DB Intro](https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-intro.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
 [![Guided Project: Arrays, Iteration, and Selection](https://learn.microsoft.com/en-us/training/achievements/guided-project-arrays-iteration-selection.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
-
+[![Generic Microsoft Badge](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
+[![App Service: Scale Apps](https://learn.microsoft.com/en-us/training/achievements/app-service-scale-apps.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
+[![Fundamentals of Generative AI](https://learn.microsoft.com/en-us/training/achievements/fundamentals-generative-ai.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
 
 
 <picture>
