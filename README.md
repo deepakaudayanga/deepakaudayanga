@@ -10,7 +10,7 @@
 ## 🎓 Certifications & Badges
 
 [![Badge 1](https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
-[![Badge 2]([https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg](https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-intro.svg))](https://learn.microsoft.com/en-us/users/udayanga-6286/)
+[![Azure Cosmos DB Intro](https://learn.microsoft.com/en-us/training/achievements/azure-cosmos-db-intro.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
 [![Badge 3](https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg)](https://learn.microsoft.com/en-us/users/udayanga-6286/)
 
 
